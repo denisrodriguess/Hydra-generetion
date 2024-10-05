@@ -1,7 +1,7 @@
 // script.js
 
 const racas = ['Anão', 'Dragonborn', 'Elfo', 'Gnomo', 'Halfling', 'Humano', 'Meio-elfo', 'Meio-orc', 'Tiefling'];
-const classes = ['Bárbaro', 'Bardo', 'Bruxo', 'Clérigo', 'Druida', 'Feiticeiro', 'Guerreiro', 'Ladino', 'Mago', 'Monge', 'Paladino', 'Ranger'];
+const classes = ['Bárbaro', 'Bardo', 'Bruxo', 'Clérigo', 'Druida', 'Feiticeiro', 'Guerreiro', 'Ladino', 'Mago', 'Monge', 'Paladino', 'Ranger', 'Patrulheiro'];
 const atributos = ['Força', 'Destreza', 'Constituição', 'Inteligência', 'Sabedoria', 'Carisma'];
 const modificadoresRaca = {
     'Anão': {'Constituição': 2},
